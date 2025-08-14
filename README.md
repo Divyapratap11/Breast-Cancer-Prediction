@@ -1,2 +1,2 @@
-# CVIPDataScienceIntern
+# Breast Cancer Prediction
 Breast Cancer Prediction
